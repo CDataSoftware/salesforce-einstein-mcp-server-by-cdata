@@ -1,4 +1,11 @@
 # salesforce-einstein-mcp-server-by-cdata
+<!-- deprecation-banner -->
+> [!WARNING]
+> **This repository is deprecated and archived.** It is no longer maintained and will not receive updates or fixes.
+>
+> - **Agentic coding** (Claude Code, Cursor, GitHub Copilot, and similar tools): use the [CData CLI](https://www.cdata.com/solutions/cli/) to give coding agents live access to Salesforce Einstein data.
+> - **Enterprise AI and MCP**: use [CData Connect AI](https://www.cdata.com/ai/), CData's managed MCP platform, to connect AI assistants and agents to Salesforce Einstein and other enterprise data.
+
 CData's Model Context Protocol (MCP) Server for Salesforce Einstein
 
 :heavy_exclamation_mark: This project builds a read-only MCP server. For full read, write, update, delete, and action capabilities and a simplified setup, check out our [CData MCP Server for Salesforce Einstein](https://www.cdata.com/drivers/einstein/download/mcp/). 
